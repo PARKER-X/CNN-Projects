@@ -1,4 +1,4 @@
-# CNN 
+ # CNN 
 Cnn Best Resources
 https://cs231n.github.io/ and https://www.youtube.com/playlist?app=desktop&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
  
